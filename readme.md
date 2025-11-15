@@ -1,4 +1,4 @@
-# Data Science Learning Journey 🐼🤖
+# Machine Learning Journey 🐼🤖
 
 Welcome to my collection of data science notebooks! This repository documents my hands-on learning experience with Python's data analysis and machine learning tools. Each notebook is a practical exploration of core concepts, complete with real-world datasets and examples.
 
